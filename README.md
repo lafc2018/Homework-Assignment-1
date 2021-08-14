@@ -39,3 +39,7 @@ The following image shows the current application after the updates to the codeb
 * [MDN Web Docs](https://developer.mozilla.org)
 * [W3 Schools](https://www.w3schools.com/)
 * [Request-Response](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+## License
+MIT License
+Copyright (c) [2021] [Israel M. Rios]
