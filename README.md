@@ -30,7 +30,7 @@ There were no updates to the applications README file but this is the first time
 ## Application Screen Capture
 The following image shows the current application after the updates to the codebase.
 
-![The Horiseon webpage still includes a navigation bar, a header image, and cards with text and images at the bottom of the page. It also includes the footer element.](./Assets/application-after-html-css-edits.png)
+![The Horiseon webpage still includes a navigation bar, a header image, and cards with text and images at the bottom of the page. It also includes the footer element.](./assets/images/application-after-html-css-edits.png)
 
 > **Note**: You can find the deployed application here&mdash;https://lafc2018.github.io/Homework-Assignment-1/
 
